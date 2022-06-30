@@ -22,6 +22,7 @@ Try to figure out how to get out of this misterious place you have reached while
 
 * Jan Adell Mill
 > [Linkedin](https://www.linkedin.com/in/jan-adell-mill-41a5341a3/)
+
 > [GitHub](https://github.com/JanAdell)
 
 ### Known issues
